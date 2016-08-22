@@ -1,0 +1,758 @@
+{
+animations: {
+	ground: {
+		name: ground
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king000
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	bg0: {
+		name: bg0
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king001
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	bg1: {
+		name: bg1
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king002
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	bg2: {
+		name: bg2
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king003
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	lion: {
+		name: lion
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king004
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king005
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king006
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king007
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king008
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+		]
+	}
+	musafa: {
+		name: musafa
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 360
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king024
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 700
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 200
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king024
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 120
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 120
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1200
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1400
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5000
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king024
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10000
+			}
+		]
+	}
+	babylion: {
+		name: babylion
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 300
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 30
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 300
+			}
+		]
+	}
+	flamingo: {
+		name: flamingo
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:king013
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king014
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king011
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:king012
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+		]
+	}
+}
+}

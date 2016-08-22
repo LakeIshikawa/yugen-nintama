@@ -1,0 +1,1821 @@
+{
+animations: {
+	backhop: {
+		name: backhop
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:033
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:083
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:084
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:085
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:086
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:087
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+		loopStartPos: 5
+	}
+	walkbwd: {
+		name: walkbwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:051
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:052
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:053
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:054
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:055
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:056
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:057
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:046
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:047
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:048
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:049
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:050
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	falling: {
+		name: falling
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	walkfwd: {
+		name: walkfwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:041
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:042
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:043
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:044
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:045
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:034
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:035
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:036
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:037
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:038
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:039
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:040
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+		]
+	}
+	idle: {
+		name: idle
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:002
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:003
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:004
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:005
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:006
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:007
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:008
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:011
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:012
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:013
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	stand2crouch: {
+		name: stand2crouch
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:018
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:019
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+		]
+	}
+	landing: {
+		name: landing
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:019
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	jumpingBwd: {
+		name: jumpingBwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:060
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:061
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:062
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:063
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:064
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:065
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:066
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:067
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:068
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:069
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+		loopStartPos: 12
+	}
+	crouch2stand: {
+		name: crouch2stand
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:032
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:033
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	jumpingFwd: {
+		name: jumpingFwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:060
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:061
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:062
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:063
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:064
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:065
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:066
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:067
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:068
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:069
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+		loopStartPos: 12
+	}
+	jumpstart: {
+		name: jumpstart
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:019
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	crouching: {
+		name: crouching
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:024
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:027
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	brake: {
+		name: brake
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:091
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	backhopland: {
+		name: backhopland
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:087
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:019
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	jumping: {
+		name: jumping
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:060
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:061
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:062
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:063
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:064
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:065
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:066
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:067
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:068
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:069
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+		loopStartPos: 12
+	}
+	crouchturn: {
+		name: crouchturn
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:027
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+	}
+	turn: {
+		name: turn
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:013
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:002
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+	}
+	running: {
+		name: running
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:041
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:070
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:074
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:077
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:080
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:081
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:082
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:071
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:072
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:073
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:074
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:077
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:078
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:079
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+		]
+		loopStartPos: 5
+	}
+}
+}

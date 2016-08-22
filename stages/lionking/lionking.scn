@@ -1,0 +1,53 @@
+{
+layout: [
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: bg0
+		y: 367
+		scrollFactorX: 0.15
+	}
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: bg2
+		x: 75
+		y: 182
+		scrollFactorX: 0.1
+	}
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: bg1
+		x: -50
+		y: 105
+		scrollFactorX: 0.05
+	}
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: ground
+		x: -2
+		y: -5
+	}
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: lion
+		x: -59
+		y: 158
+		scrollFactorX: 0.05
+	}
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: babylion
+		x: -89
+		y: 164
+		scrollFactorX: 0.05
+	}
+	{
+		scriptPath: stages\\lionking\\LionkingSprite.java
+		animation: musafa
+		x: -287
+		y: 78
+	}
+]
+camera_y: 155
+area_r: 590
+area_l: -690
+}
