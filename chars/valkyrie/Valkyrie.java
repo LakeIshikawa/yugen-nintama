@@ -11,7 +11,7 @@ public class Valkyrie extends Fighter {
 
     // Initialization
     public Valkyrie(){
-        scale = 0.8f;
+        scale = 0.75f;
 
         // Middle punch
         punchSHMhit.damage = 30;
