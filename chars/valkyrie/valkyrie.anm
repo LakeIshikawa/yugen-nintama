@@ -1,104 +1,5 @@
 {
 animations: {
-	landing: {
-		name: landing
-		frames: [
-			{
-				components: [
-					{
-						spriteDef: S:test028
-						x: 0
-						y: 0
-						scaleX: 1
-						scaleY: 1
-						rotation: 0
-						blendMode: NORMAL
-					}
-				]
-				lengthTicks: 2
-				damageCollisions: [
-					{
-						x: -64
-						y: -12
-						width: 135
-						height: 94
-					}
-					{
-						x: -41
-						y: 83
-						width: 87
-						height: 106
-					}
-				]
-			}
-			{
-				components: [
-					{
-						spriteDef: S:test027
-						x: 0
-						y: 0
-						scaleX: 1
-						scaleY: 1
-						rotation: 0
-						blendMode: NORMAL
-					}
-				]
-				lengthTicks: 3
-				damageCollisions: [
-					{
-						x: -68
-						y: -19
-						width: 143
-						height: 140
-					}
-				]
-			}
-			{
-				components: [
-					{
-						spriteDef: S:test026
-						x: 0
-						y: 0
-						scaleX: 1
-						scaleY: 1
-						rotation: 0
-						blendMode: NORMAL
-					}
-				]
-				lengthTicks: 3
-				damageCollisions: [
-					{
-						x: -74
-						y: -18
-						width: 142
-						height: 124
-					}
-				]
-			}
-			{
-				components: [
-					{
-						spriteDef: S:test027
-						x: 0
-						y: 0
-						scaleX: 1
-						scaleY: 1
-						rotation: 0
-						blendMode: NORMAL
-					}
-				]
-				lengthTicks: 3
-				damageCollisions: [
-					{
-						x: -68
-						y: -19
-						width: 143
-						height: 140
-					}
-				]
-			}
-		]
-	}
 	backhop: {
 		name: backhop
 		frames: [
@@ -182,6 +83,39 @@ animations: {
 			}
 		]
 		loopStartPos: 2
+	}
+	crouchTurn: {
+		name: crouchTurn
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:test025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+				damageCollisions: [
+					{
+						x: -50
+						y: -9
+						width: 107
+						height: 112
+					}
+					{
+						x: -41
+						y: 104
+						width: 81
+						height: 101
+					}
+				]
+			}
+		]
 	}
 	walkbwd: {
 		name: walkbwd
@@ -974,13 +908,13 @@ animations: {
 			}
 		]
 	}
-	crouchTurn: {
-		name: crouchTurn
+	landing: {
+		name: landing
 		frames: [
 			{
 				components: [
 					{
-						spriteDef: S:test025
+						spriteDef: S:test028
 						x: 0
 						y: 0
 						scaleX: 1
@@ -992,18 +926,257 @@ animations: {
 				lengthTicks: 2
 				damageCollisions: [
 					{
-						x: -50
-						y: -9
-						width: 107
-						height: 112
+						x: -64
+						y: -12
+						width: 135
+						height: 94
 					}
 					{
 						x: -41
-						y: 104
-						width: 81
-						height: 101
+						y: 83
+						width: 87
+						height: 106
 					}
 				]
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test027
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+				damageCollisions: [
+					{
+						x: -68
+						y: -19
+						width: 143
+						height: 140
+					}
+				]
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+				damageCollisions: [
+					{
+						x: -74
+						y: -18
+						width: 142
+						height: 124
+					}
+				]
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test027
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+				damageCollisions: [
+					{
+						x: -68
+						y: -19
+						width: 143
+						height: 140
+					}
+				]
+			}
+		]
+	}
+	sparkle: {
+		name: sparkle
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:test1608
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1609
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1610
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1611
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1612
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1613
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1614
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1615
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1616
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1617
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1618
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:test1619
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: ADDITIVE
+					}
+				]
+				lengthTicks: 3
 			}
 		]
 	}
@@ -1578,7 +1751,6 @@ animations: {
 						blendMode: NORMAL
 					}
 					{
-						spriteDef: S:test970
 						x: 0
 						y: 0
 						scaleX: 1
@@ -1587,7 +1759,6 @@ animations: {
 						blendMode: NORMAL
 					}
 					{
-						spriteDef: S:test954
 						x: 0
 						y: 0
 						scaleX: 1
@@ -1624,7 +1795,6 @@ animations: {
 						blendMode: NORMAL
 					}
 					{
-						spriteDef: S:test971
 						x: 0
 						y: 0
 						scaleX: 1
@@ -1633,7 +1803,6 @@ animations: {
 						blendMode: NORMAL
 					}
 					{
-						spriteDef: S:test955
 						x: 0
 						y: 0
 						scaleX: 1
@@ -1670,7 +1839,6 @@ animations: {
 						blendMode: NORMAL
 					}
 					{
-						spriteDef: S:test972
 						x: 0
 						y: 0
 						scaleX: 1
@@ -1679,7 +1847,6 @@ animations: {
 						blendMode: NORMAL
 					}
 					{
-						spriteDef: S:test956
 						x: 0
 						y: 0
 						scaleX: 1
