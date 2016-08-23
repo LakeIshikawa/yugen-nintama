@@ -35,4 +35,8 @@ public class FighterHit {
     public float ground_velocity = -7f;
     public int ground_slidetime = 10;
     public float air_velocity = -5f;
+
+    public String sparkleAnimation = "sparkle";
+    public int sparkleX = 150;
+    public int sparkleY = 60;
 }

@@ -4,7 +4,9 @@ import com.badlogic.gdx.ai.fsm.State;
 import com.badlogic.gdx.ai.msg.Telegram;
 import com.badlogic.gdx.math.Vector2;
 import com.lksoft.yugen.stateful.Fsm;
+import com.lksoft.yugen.stateless.AnimationDef;
 import com.lksoft.yugen.stateless.CommandDef;
+import com.lksoft.yugen.stateless.SceneDef;
 
 /**
  * Fighter base class
@@ -159,6 +161,19 @@ public class Fighter extends Fsm<Fighter, State<Fighter>, FighterHit> {
                 // Pause players
                 pause(getHit().pausetime);
                 opponent.pause(getHit().pausetime);
+
+                // Play sparkle
+                AnimationDef sparkle = opponent.getAnimation(getHit().sparkleAnimation);
+                if( sparkle != null ){
+                    Fsm sparkleFsm = loadFSM("shared/Fx.java", "sparkle");
+                    opponent.getAnimationPack().use();
+                    sparkleFsm.setAnimationPack(opponent.getAnimationPack());
+                    sparkleFsm.setAnimation(sparkle);
+                    sparkleFsm.pos.set(
+                            opponent.pos.x + getHit().sparkleX * (opponent.flip?-1:1),
+                            opponent.pos.y + getHit().sparkleY);
+                    sparkleFsm.setLayer(6);
+                }
 
                 // Air damage
                 if( fightPosition == FightPosition.AIR ){
