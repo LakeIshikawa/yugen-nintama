@@ -1,31 +1,27 @@
 {
-  mainFsm : "shared/screens/StageSelect.java",
-
-  p1Keys : {
-    up : W,
-    down : S,
-    left : A,
-    right : D,
-
-    b1 : R,
-    b2 : T,
-    b3 : F,
-    b4 : G,
-    b5 : V,
-    b6 : B
-  },
-
-  p2Keys : {
-    up : UP,
-    down : DOWN,
-    left : LEFT,
-    right : RIGHT,
-
-    b1 : NUM_8,
-    b2 : NUM_9,
-    b3 : I,
-    b4 : O,
-    b5 : K,
-    b6 : L
-  }
+mainFsm: shared\\screens\\StageSelect.java
+p1Keys: {
+	up: W
+	down: S
+	left: A
+	right: D
+	b1: R
+	b2: T
+	b3: F
+	b4: G
+	b5: V
+	b6: B
+}
+p2Keys: {
+	up: UP
+	down: DOWN
+	left: LEFT
+	right: RIGHT
+	b1: NUM_8
+	b2: NUM_9
+	b3: I
+	b4: O
+	b5: K
+	b6: L
+}
 }
