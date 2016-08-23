@@ -804,21 +804,21 @@ test111
   index: -1
 test112
   rotate: false
-  xy: 164, 1903
+  xy: 271, 1903
   size: 36, 35
   orig: 183, 214
   offset: 73, 89
   index: -1
 test113
   rotate: false
-  xy: 166, 2455
+  xy: 3995, 3179
   size: 30, 29
   orig: 183, 214
   offset: 76, 92
   index: -1
 test114
   rotate: false
-  xy: 3413, 3914
+  xy: 3445, 3914
   size: 24, 23
   orig: 183, 214
   offset: 80, 96
@@ -3320,5 +3320,47 @@ test461
   xy: 1115, 661
   size: 138, 139
   orig: 138, 139
+  offset: 0, 0
+  index: -1
+test954
+  rotate: false
+  xy: 1344, 2886
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+test955
+  rotate: false
+  xy: 321, 2008
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+test956
+  rotate: false
+  xy: 164, 1904
+  size: 105, 34
+  orig: 105, 34
+  offset: 0, 0
+  index: -1
+test970
+  rotate: false
+  xy: 3413, 3914
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+test971
+  rotate: false
+  xy: 3128, 2911
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+test972
+  rotate: false
+  xy: 166, 2456
+  size: 98, 28
+  orig: 98, 28
   offset: 0, 0
   index: -1
