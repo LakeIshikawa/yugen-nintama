@@ -72,7 +72,12 @@ enum StageState implements State<Stage> {
         }
 
         public void update(Stage stage) {
-            stage.setCamera((int)(stage.p1.pos.x + stage.p2.pos.x)/2, stage.scene.camera_y);
+            // Camera movement
+            int minx = stage.scene.area_l + stage.scene.camera_width/2;
+            int maxx = stage.scene.area_r - stage.scene.camera_width/2;
+            int px = (int)(stage.p1.pos.x + stage.p2.pos.x)/2;
+            px = Math.min(Math.max(px, minx), maxx);
+            stage.setCamera(px, stage.scene.camera_y);
         }
     };
 

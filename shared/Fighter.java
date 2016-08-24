@@ -76,6 +76,7 @@ public class Fighter extends Fsm<Fighter, State<Fighter>, FighterHit> {
 
     // References
     public Fsm opponent;
+    public Stage stage;
 
     // Temp
     public int slidetime;
@@ -206,6 +207,18 @@ public class Fighter extends Fsm<Fighter, State<Fighter>, FighterHit> {
                 return;
             }
         }
+
+        // Stage borders
+        float leftBorder = stage.getCameraPos().x - stage.scene.camera_width/2;
+        float rightBorder = stage.getCameraPos().x + stage.scene.camera_width/2;
+        if( pos.x <= leftBorder && vel.x < 0 ){
+            vel.x = 0;
+            pos.x = leftBorder;
+        }
+        if( pos.x >= rightBorder && vel.x > 0 ){
+            vel.x = 0;
+            pos.x = rightBorder;
+        }
     }
 }
 
@@ -215,6 +228,8 @@ public class Fighter extends Fsm<Fighter, State<Fighter>, FighterHit> {
 enum FighterState implements State<Fighter> {
     IDLE() {
         public void enter(Fighter f){
+            // Save stage
+            f.stage = (Stage) f.getFSM("stage");
             // Save opponent
             if( f.opponent == null ) {
                 f.opponent = (f == f.getFSM("p1")) ? f.getFSM("p2") : f.getFSM("p1");
