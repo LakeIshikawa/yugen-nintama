@@ -1,6 +1,6 @@
 package chars.valkyrie;
 
-import shared.Fighter;
+import yugen.Fighter;
 import com.lksoft.yugen.stateful.FsmResources;
 
 /**

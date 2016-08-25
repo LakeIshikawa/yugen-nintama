@@ -1,5 +1,5 @@
 {
-mainFsm: shared\\screens\\StageSelect.java
+mainFsm: yugen\\screens\\StageSelect.java
 p1Keys: {
 	up: W
 	down: S
