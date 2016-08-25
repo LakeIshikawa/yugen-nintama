@@ -1,0 +1,3 @@
+[submodule "yugen"]
+	path = yugen
+	url = https://github.com/LakeIshikawa/yugen.git
