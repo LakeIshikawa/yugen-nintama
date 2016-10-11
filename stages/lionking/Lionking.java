@@ -1,9 +1,6 @@
 package stages.lionking;
 
 import yugen.Stage;
-import com.lksoft.yugen.stateful.Fsm;
-import com.badlogic.gdx.ai.fsm.State;
-import com.badlogic.gdx.ai.msg.Telegram;
 import yugen.StageResources;
 
 /**

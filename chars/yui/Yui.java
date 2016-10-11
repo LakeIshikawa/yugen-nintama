@@ -1,6 +1,6 @@
 package chars.yui;
 
-import com.lksoft.yugen.stateful.FsmResources;
+import com.lksoft.sweat.stateful.FsmResources;
 import yugen.Fighter;
 
 /**

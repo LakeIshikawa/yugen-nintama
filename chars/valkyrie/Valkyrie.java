@@ -1,7 +1,7 @@
 package chars.valkyrie;
 
 import yugen.Fighter;
-import com.lksoft.yugen.stateful.FsmResources;
+import com.lksoft.sweat.stateful.FsmResources;
 
 /**
  * Valkyrie fighter
@@ -14,6 +14,6 @@ public class Valkyrie extends Fighter {
         scale = 0.75f;
 
         // Middle punch
-        punchSHMhit.damage = 30;
+        punchSMhit.damage = 30;
     }
 }

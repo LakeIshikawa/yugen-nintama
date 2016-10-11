@@ -1,0 +1,7893 @@
+{
+animations: {
+	kichAH: {
+		name: kichAH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu368
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu369
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu370
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu371
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu372
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu373
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu374
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu375
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	backhop: {
+		name: backhop
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu084
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu085
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu086
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu087
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu088
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu089
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+		]
+	}
+	punchSH: {
+		name: punchSH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu220
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu221
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu222
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu223
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu224
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu225
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu226
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu227
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu228
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu229
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu230
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu019
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	guardstartA: {
+		name: guardstartA
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu105
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+	}
+	guardingA: {
+		name: guardingA
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu106
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu107
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	guardstartC: {
+		name: guardstartC
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu100
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+	}
+	punchSL: {
+		name: punchSL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu205
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu206
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu207
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu208
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu209
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	punchSM: {
+		name: punchSM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu211
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu212
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu213
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu214
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu215
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu216
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu217
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	kickCH: {
+		name: kickCH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu328
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu320
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu321
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu322
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu323
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu324
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu325
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu326
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu327
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu328
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu329
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	run: {
+		name: run
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu078
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu079
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu080
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu081
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu082
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu083
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	jumping: {
+		name: jumping
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu053
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu054
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu055
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu056
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu057
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu058
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu059
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu060
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu061
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu062
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu063
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 9
+	}
+	punchfwdAL: {
+		name: punchfwdAL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu336
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu337
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu338
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu339
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu340
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu341
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu342
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu343
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	punchCH: {
+		name: punchCH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu300
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu301
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu302
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu303
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu304
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 8
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu305
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu306
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu307
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu308
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	kickfwdAH: {
+		name: kickfwdAH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu482
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu483
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu484
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu485
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu486
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu487
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu061
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu060
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu062
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu063
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	punchCL: {
+		name: punchCL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu295
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu296
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu297
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu298
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu299
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	punchCM: {
+		name: punchCM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu295
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu296
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu297
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu298
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu299
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu295
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	kickfwdAM: {
+		name: kickfwdAM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu368
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu369
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu370
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu371
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu372
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu373
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu374
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu375
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu062
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu063
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	jumpingBwd: {
+		name: jumpingBwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu073
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu072
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu071
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu070
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu069
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu068
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu067
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu066
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu077
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 9
+	}
+	introbag: {
+		name: introbag
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu178
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu179
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu180
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu181
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu182
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+		]
+	}
+	crouch2stand: {
+		name: crouch2stand
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu024
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	jumpingFwd: {
+		name: jumpingFwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu065
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu066
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu067
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu068
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu069
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu070
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu071
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu072
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu073
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu074
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 10
+	}
+	introryu: {
+		name: introryu
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu188
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 20
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu189
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu190
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu191
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu192
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu193
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 8
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu194
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu195
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu196
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu197
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 8
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu198
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	kickclose: {
+		name: kickclose
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu231
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu289
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu290
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu291
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu292
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu293
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu294
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu236
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu237
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	timeover: {
+		name: timeover
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu155
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu156
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu157
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu158
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu159
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu170
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu171
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu172
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu173
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu124
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	punchfwdAH: {
+		name: punchfwdAH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu336
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu337
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu338
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu339
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu340
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu341
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu342
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu343
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	kickCL: {
+		name: kickCL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu310
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu311
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu312
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu313
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu310
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu309
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+	}
+	kickCM: {
+		name: kickCM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu314
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu328
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu315
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu316
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu317
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu318
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu319
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu328
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu329
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	punchfwdAM: {
+		name: punchfwdAM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu354
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu355
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu356
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu357
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu358
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu359
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu360
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu361
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu362
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 9
+	}
+	damageCHM: {
+		name: damageCHM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu603
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu606
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu605
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu606
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu603
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	guardhitA: {
+		name: guardhitA
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu106
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu107
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	damageCHH: {
+		name: damageCHH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu607
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu608
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu610
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 8
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu611
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu015
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu016
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu017
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu018
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	guardhitC: {
+		name: guardhitC
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu098
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+		]
+	}
+	damageCHL: {
+		name: damageCHL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu603
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu602
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu603
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	damageAHM: {
+		name: damageAHM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu744
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu614
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu071
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu070
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu069
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu068
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu067
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu066
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu065
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 9
+	}
+	damageSHM: {
+		name: damageSHM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu558
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu559
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu560
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu559
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu556
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	draw: {
+		name: draw
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu132
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu133
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu134
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu135
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu136
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu137
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu138
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu139
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu140
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu141
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu142
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu143
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+		]
+		loopStartPos: 6
+	}
+	kickAM: {
+		name: kickAM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu368
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu369
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu363
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu364
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu365
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu366
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu367
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu375
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	damageSLH: {
+		name: damageSLH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu576
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu582
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu583
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu584
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu585
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu586
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu587
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu588
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu589
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu590
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu578
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu579
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu580
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	guardendA: {
+		name: guardendA
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu106
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu107
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	damageSLM: {
+		name: damageSLM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu576
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu582
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu581
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu577
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu578
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu579
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu580
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	guardingC: {
+		name: guardingC
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu101
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu102
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+		]
+		loopStartPos: 1
+	}
+	kickSH: {
+		name: kickSH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu247
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu248
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu249
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu250
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu251
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu252
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu253
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu254
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu255
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu256
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu257
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu258
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu259
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu260
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	damageSHL: {
+		name: damageSHL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu558
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu555
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu556
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	landing: {
+		name: landing
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu064
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	idle: {
+		name: idle
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu002
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu003
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu004
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu005
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu006
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu007
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu008
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu009
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu010
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu011
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	punchAH: {
+		name: punchAH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu345
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu346
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu347
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu348
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu349
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu350
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu351
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu352
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu353
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 9
+	}
+	guardingS: {
+		name: guardingS
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu096
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu097
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+		]
+		loopStartPos: 1
+	}
+	punchAM: {
+		name: punchAM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu330
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu331
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu332
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu333
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu334
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu335
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu333
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+		loopStartPos: 3
+	}
+	punchAL: {
+		name: punchAL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu330
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu331
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu332
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu333
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu334
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu335
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu333
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+		loopStartPos: 3
+	}
+	punchfwdSM: {
+		name: punchfwdSM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu415
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu416
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu417
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu418
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu419
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu420
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu421
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu422
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu423
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	win: {
+		name: win
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu124
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu125
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu126
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu127
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu128
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu130
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 100
+			}
+		]
+		loopStartPos: 5
+	}
+	punchcloseSH: {
+		name: punchcloseSH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu275
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu276
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu277
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu278
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu279
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu280
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu281
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu282
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu283
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu284
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu285
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu286
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu287
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	punchfwdSH: {
+		name: punchfwdSH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu217
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu425
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu426
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu427
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu428
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu429
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu431
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu432
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu433
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu434
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu435
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu436
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu437
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu438
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	walkbwd: {
+		name: walkbwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu042
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu043
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu044
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu045
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu046
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu047
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu048
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu049
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu050
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu051
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu052
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	punchcloseSL: {
+		name: punchcloseSL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu261
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu262
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu263
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu264
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu265
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu266
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu267
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+		]
+	}
+	punchcloseSM: {
+		name: punchcloseSM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu268
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu269
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu270
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu271
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu272
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu273
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu274
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu268
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	airFall: {
+		name: airFall
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu744
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu614
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 8
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu615
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu616
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	kickSM: {
+		name: kickSM
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu238
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu239
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu240
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu241
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu242
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu243
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu244
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu245
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu246
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	damageSLL: {
+		name: damageSLL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu576
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 6
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu582
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu579
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu580
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	crouching: {
+		name: crouching
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu027
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 11
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu028
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 10
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu029
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 9
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu030
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 11
+			}
+		]
+	}
+	turn: {
+		name: turn
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu012
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu013
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu014
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	walkfwd: {
+		name: walkfwd
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu031
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu032
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu033
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu034
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu035
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu036
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu037
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu038
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu039
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu040
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu041
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	intro: {
+		name: intro
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu174
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 12
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu175
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu176
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu177
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu025
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu026
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 7
+			}
+		]
+	}
+	guardendC: {
+		name: guardendC
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu101
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu100
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	kickAL: {
+		name: kickAL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu368
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu369
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu363
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu364
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu365
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu366
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu367
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu375
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 8
+	}
+	stand2crouch: {
+		name: stand2crouch
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu019
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu021
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu022
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu023
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+		]
+	}
+	jumpstart: {
+		name: jumpstart
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu020
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	kickSL: {
+		name: kickSL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu231
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu232
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu233
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu234
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu235
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu236
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu237
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+		]
+	}
+	guardstartS: {
+		name: guardstartS
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu090
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+		]
+	}
+	guardendS: {
+		name: guardendS
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu099
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu090
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	damageSHH: {
+		name: damageSHH
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu558
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu547
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu548
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu549
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu550
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu551
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu552
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu553
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu557
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+	}
+	kickfwdAL: {
+		name: kickfwdAL
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu376
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu377
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu378
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 1
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu379
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 5
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu380
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu381
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 4
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu075
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu076
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+		]
+		loopStartPos: 6
+	}
+	crouchturn: {
+		name: crouchturn
+		frames: [
+			{
+				components: [
+					{
+						spriteDef: S:ryu015
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu016
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu017
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 3
+			}
+			{
+				components: [
+					{
+						spriteDef: S:ryu018
+						x: 0
+						y: 0
+						scaleX: 1
+						scaleY: 1
+						rotation: 0
+						blendMode: NORMAL
+					}
+				]
+				lengthTicks: 2
+			}
+		]
+	}
+}
+}

@@ -7,21 +7,21 @@ p1Keys: {
 	right: D
 	b1: R
 	b2: T
-	b3: F
-	b4: G
-	b5: V
-	b6: B
+	b3: Y
+	b4: F
+	b5: G
+	b6: H
 }
 p2Keys: {
 	up: UP
 	down: DOWN
 	left: LEFT
 	right: RIGHT
-	b1: NUM_8
-	b2: NUM_9
-	b3: I
-	b4: O
-	b5: K
-	b6: L
+	b1: O
+	b2: P
+	b3: LBRACKET
+	b4: L
+	b5: SEMICOLON
+	b6: APOSTROPHE
 }
 }
