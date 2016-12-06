@@ -1,7 +1,7 @@
 package chars.valkyrie;
 
-import yugen.Fighter;
 import com.lksoft.sweat.stateful.FsmResources;
+import yugen.Fighter;
 
 /**
  * Valkyrie fighter
